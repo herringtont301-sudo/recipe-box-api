@@ -1,4 +1,4 @@
-# Recipe Box API
+# Recipe Box API> This is Tanya Herrington’s local copy of the recipe-box API for the Maestro course.
 
 A small, working Flask + SQLite API for keeping recipes. Full CRUD, clean
 status codes - and **no authentication at all**. Anyone who can reach it can
